@@ -4,7 +4,7 @@ This repository corresponds to the paper:
 **Insights and Recommendations for Automatically Generating Machine Learning Leaderboards**  
 _The authors remain anonymous as the manuscript is currently under review for the Transactions of the Association for Computational Linguistics (TACL)._  
 
-![Leaderboard Diagram](leaderboard-diagram.pdf)  
+![Leaderboard Diagram](leaderboard-diagram.png)  
 *Figure 1: A conceptual diagram illustrating the flow of information extraction from scientific papers to generate leaderboards.*
 
 This curated list contains research papers and resources that explore various methods for extracting leaderboard tuples from scientific literature. The collection will be continually updated to support the ongoing leaderboard survey paper.  
