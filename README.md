@@ -95,7 +95,7 @@ This curated list contains research papers and resources that explore various me
 | NLP-TDMS       | Hou et al. (2019)      | [https://github.com/IBM/science-result-extractor](https://github.com/IBM/science-result-extractor) |
 | ORKG-PwC       | Kabongo et al. (2021)      | [http://doi.org/10.5281/zenodo.5105798](http://doi.org/10.5281/zenodo.5105798) |
 | PwC-LB       | Kardas et al. (2020)      | [https://github.com/paperswithcode/axcell/releases/download/v1.0/pwc-leaderboards.json.xz](https://github.com/paperswithcode/axcell/releases/download/v1.0/pwc-leaderboards.json.xz) |
-| SciREX       | Jain et al. (2020)      | [https: //github.com/allenai/SciREX](https: //github.com/allenai/SciREX) |
+| SciREX       | Jain et al. (2020)      | [https: //github.com/allenai/SciREX](https://github.com/allenai/SciREX) |
 | TDMS-Ctx       | Kabongo et al. (2024)      | N/A |
 | LEGOBench       | Singh et al. (2024)      | [https://osf.io/9v2py/?view_only=6f91b0b510df498ba01595f8f278f94c](https://osf.io/9v2py/?view_only=6f91b0b510df498ba01595f8f278f94c)  |
 | SciLead       | Sahinuc et al. (2024)      | [https://tudatalib.ulb.tu-darmstadt.de/items/7edc7f83-d6de-4eaa-9eb8-62fe3a30f1b6](https://tudatalib.ulb.tu-darmstadt.de/items/7edc7f83-d6de-4eaa-9eb8-62fe3a30f1b6) |
