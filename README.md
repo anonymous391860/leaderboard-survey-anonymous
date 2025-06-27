@@ -97,7 +97,7 @@ This curated list contains research papers and resources that explore various me
 | PwC-LB       | Kardas et al. (2019)      |  |
 | SciREX       | Jain et al. (2019)      |           |
 | TDMS-Ctx       | Kabongo et al. (2019)      |           |
-| LEGOBench       | Singh et al. (2019)      | [https://osf.io/9v2py/?view_only= 6f91b0b510df498ba01595f8f278f94c](https://osf.io/9v2py/?view_only= 6f91b0b510df498ba01595f8f278f94c)  |
+| LEGOBench       | Singh et al. (2019)      | [https://osf.io/9v2py/?view_only=6f91b0b510df498ba01595f8f278f94c](https://osf.io/9v2py/?view_only=6f91b0b510df498ba01595f8f278f94c)  |
 | SciLead       | Sahinuc et al. (2019)      | [https://tudatalib.ulb.tu-darmstadt.de/items/7edc7f83-d6de-4eaa-9eb8-62fe3a30f1b6](https://tudatalib.ulb.tu-darmstadt.de/items/7edc7f83-d6de-4eaa-9eb8-62fe3a30f1b6) |
 
 ---
