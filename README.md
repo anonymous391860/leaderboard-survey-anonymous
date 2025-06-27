@@ -88,6 +88,20 @@ This curated list contains research papers and resources that explore various me
 
 ---
 
+## :bookmark_tabs: Dataset Links
+
+| 📰 **Dataset**        | 🔍 **Paper** | Link to Dataset |
+|---------------------------------------|--------------|------------|
+| ORKG-PwC       | Kabongo et al. (2019)      |           |
+| NLP-TDMS       | Hou et al. (2019)      |  [https://github.com/IBM/science-result-extractor](https://github.com/IBM/science-result-extractor) |
+| PwC-LB       | Kardas et al. (2019)      |           |
+| SciREX       | Jain et al. (2019)      |           |
+| TDMS-Ctx       | Kabongo et al. (2019)      |           |
+| LEGOBench       | Singh et al. (2019)      |           |
+| SciLead       | Sahinuc et al. (2019)      |           |
+
+---
+
 ## 🤝 Contributing to the Reading List
 
 To contribute new research papers or make updates:  
